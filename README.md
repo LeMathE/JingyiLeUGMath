@@ -4,5 +4,5 @@ This is where I store the math projects/thoughts I did as an undergraduate which
 - my research work in NumberTheory and Dynamics (Warwick, Cambridge)
 - code generated to some competitions
 - ...
-- 
+  
 I hope these documents can not only help me have a clearer understanding of the problems I'm dealing with (every step you take counts), but also bring some inspiration for someone or myself.
