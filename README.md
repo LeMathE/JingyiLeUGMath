@@ -1,4 +1,4 @@
-Hi, here's Jingyi Le, to update and store my thoughts and progress in mathematics. last version: Dec 2024
+Hi, here's Jingyi Le, to update and store my thoughts and progress in mathematics. last version: Aug. 2025
 This is where I store the math projects/thoughts I did as an undergraduate which includes
 - 2024 Warwick Summer Research Programme: Complex Dynamics
 - 2025 Cambridge Math Open Internship: Arithmetic Dynamics
